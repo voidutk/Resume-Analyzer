@@ -126,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[UTKARSH]**
 - GitHub: [@voidutk](https://github.com/voidutk)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/utkarsh-void)
+- LinkedIn: [here](https://linkedin.com/in/utkarsh-void)
 
 ## 🙏 Acknowledgments
 
