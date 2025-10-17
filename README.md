@@ -7,19 +7,6 @@
 
 > An intelligent AI system that automatically screens, ranks, and analyzes resumes to help companies find the best candidates efficiently.
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
 ## 🎯 About
 
 This AI-powered resume screening system leverages **Natural Language Processing (NLP)** and **machine learning algorithms** to automate the recruitment process. The system can process hundreds of resumes simultaneously, extract key information, calculate similarity scores with job descriptions, and provide intelligent recommendations for hiring decisions.
